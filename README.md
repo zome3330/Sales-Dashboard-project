@@ -18,3 +18,4 @@ Interactive Excel dashboard analyzing sales performance and KPIs.
 ## Project Files
 - Sales Dashboard.pbix
 - Dataset.xlsx
+<img width="100%" src="sales-dashboard.png">
